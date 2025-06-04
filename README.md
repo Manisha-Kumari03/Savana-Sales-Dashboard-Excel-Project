@@ -2,6 +2,8 @@
 
 This is an interactive Excel dashboard project I created by following a YouTube tutorial. It visualizes sales performance for Savana's 2024 data using dynamic and insightful charts.
 
+![Dashboard Preview](./dashboard_preview.png)
+
 ## 📌 Features
 - Monthly Orders vs Sales trend  
 - Top 10 States by Sales  
